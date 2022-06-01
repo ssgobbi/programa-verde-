@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body
+{
+    background-color:brown (8, 153, 153);
+    text-align: center;
+    color: black;
+}
+button
+{
+    border-color: chocolate;
+    border-style: outset;
+    border-top: 10%;
+    text-decoration: solid;
+}
+
+li
+{
+    list-style: none;
+}
+
+#container
+{
+    width: 220px;
+    text-align: center;
+    height: auto;
+    margin: 8px auto;
+}
+#calculadora
+{
+    width: 234px;
+    height: 20px;
+    margin: 5px auto;
+    padding: auto;
+    background-color: darkolivegreen (114, 41, 41);
+
+}
+
+.input-valor
+{
+    margin: 8px auto;
+    width: 95%;
+    height: 30px;
+    font-size: 16px;
+    overflow: hidden;
+    text-align: right;
+    color: rgb(7, 7, 6);
+    padding: 4px;
+    box-shadow: 0px -3px 1px 1px #444651;
+
+}
+.key li:active{
+    box-shadow: 0px 1px 1px 0px #444651;
+
+}
+.verificar{
+    width: 93.4% limportant ;
+}
